@@ -1,4 +1,4 @@
-###  https://vid083.github.io/front_end/
+###  https://vid083.github.io/react_sample/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
